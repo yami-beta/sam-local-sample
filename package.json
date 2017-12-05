@@ -1,0 +1,11 @@
+{
+  "name": "sam-local-sample",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "yami_beta <yami-beta@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "aws-sam-local": "^0.2.2"
+  }
+}
